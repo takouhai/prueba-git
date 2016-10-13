@@ -1,2 +1,2 @@
-# prueba-git
-Una prueba de Git.
+# Prueba Git ITSAE
+Una prueba de Git para el curso de Sistemas en el ITSAE.
